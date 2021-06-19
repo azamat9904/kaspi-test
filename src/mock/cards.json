@@ -1,0 +1,103 @@
+{
+  "jobs": [
+    {
+      "name": "Senior Software Developer (Re-advertised)",
+      "company": "I&M Bank",
+      "location": {
+        "country": "Kenya",
+        "city": "Nairobi"
+      },
+      "postedDaysAgo": 3,
+      "views": 420,
+      "image": "/card1.svg"
+    },
+    {
+      "name": "Media manager",
+      "company": "Lombrisol",
+      "location": {
+        "country": "Morocco",
+        "city": "Ait Melloul"
+      },
+      "postedDaysAgo": 6,
+      "views": 328,
+      "image": "/card2.svg"
+    },
+    {
+      "name": "WEB developer",
+      "company": "Cool Hubs",
+      "location": {
+        "country": "Nigeria",
+        "city": "Owerri"
+      },
+      "postedDaysAgo": 4,
+      "views": 160,
+      "image": "/card3.svg"
+    },
+    {
+      "name": "iOS developer",
+      "company": "Live Love",
+      "location": {
+        "country": "Germany",
+        "city": "Berlin"
+      },
+      "postedDaysAgo": 11,
+      "views": 211,
+      "image": "/card4.svg"
+    },
+    {
+      "name": "Backend Engineer",
+      "company": "Revolut",
+      "location": {
+        "country": "Kazakhstan",
+        "city": "Almaty"
+      },
+      "postedDaysAgo": 4,
+      "views": 441,
+      "image": "/card1.svg"
+    },
+    {
+      "name": "DevOps Engineer (Mid-Senior level)",
+      "company": "Improvado",
+      "location": {
+        "country": "Ukraine",
+        "city": "Kyiv"
+      },
+      "postedDaysAgo": 3,
+      "views": 63,
+      "image": "/card2.svg"
+    },
+    {
+      "name": "Product Development Engineer",
+      "company": "Kaseya",
+      "location": {
+        "country": "Poland",
+        "city": "Katowice"
+      },
+      "postedDaysAgo": 9,
+      "views": 255,
+      "image": "/card3.svg"
+    },
+    {
+      "name": "C++ Engineer",
+      "company": "Orion Innovation",
+      "location": {
+        "country": "Spain",
+        "city": "Madrid"
+      },
+      "postedDaysAgo": 2,
+      "views": 212,
+      "image": "/card4.svg"
+    },
+    {
+      "name": "AI AQA Engineer",
+      "company": "Corning Incorporated",
+      "location": {
+        "country": "Norway",
+        "city": "Oslo"
+      },
+      "postedDaysAgo": 7,
+      "views": 350,
+      "image": "/card3.svg"
+    }
+  ]
+}
